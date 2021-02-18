@@ -1,0 +1,29 @@
+.jumbotron{
+    display: flex;
+    background: url('../assests/pexels-amina-filkins-5561178.jpg') center;
+    background-size: cover;
+    height: 90vh;
+}
+
+
+.titleText {
+ display: flex;
+    justify-content: center;
+
+    padding: 0% 0% 10% 10%;
+    height: 40%;
+    width: 20%;
+    color:brown;
+    font-family: fantasy;
+   border: 1px solid black;
+    
+}
+
+.subtitle {
+    display: flex;
+    color:blue;
+    font-family: fantasy;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+  justify-content: flex-end;
+}
