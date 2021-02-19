@@ -1,24 +1,31 @@
 .footer{
     display: flex;
     justify-content: center;
-    height: 20px
+    height: 50px
  
 }
 
 
 .t1{
-  
     margin-right: 40px;
     margin-left: 10px;
 }
 
 .t2{
-    border: 5px solid white;
+
     margin-right: 10px;
     margin-left: 40px;
- }
+
+}
+ 
 
  .linkedin{
      height: 50px;
-     width: 300px;
+     width: 200px;
  }
+
+ 
+ .github{
+    height: 50px;
+    width: 200px;
+}

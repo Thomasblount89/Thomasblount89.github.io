@@ -1,4 +1,5 @@
-.projectsCovers {
-    height: 250px;
-    width: 250px;
+.fa:hover {
+color:white !important;
+transform: scale(1.1);
+
 }

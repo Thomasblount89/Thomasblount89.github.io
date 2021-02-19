@@ -1,4 +1,9 @@
+body{
+    background-color: 
+}
+
 .navbar-brand {
     font-family: var(--font-one);
     font-size: 24pt; 
+    
 }
